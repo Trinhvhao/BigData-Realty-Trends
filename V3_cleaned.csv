@@ -9753,7 +9753,8 @@ Date,Year,Locality,Estimated Value,Sale Price,Property,Residential,num_rooms,num
 8/6/2022,2022,Bridgeport,72200,144000,Single Family,Detached House,3,3,1111.658981,1.003979,South
 8/6/2022,2022,Bridgeport,119030,295000,Two Family,Duplex,4,2,1221,1.003979,South
 8/6/2022,2022,Fairfield,274190,375000,Single Family,Detached House,3,1,950,1.003979,West
-8/7/2022,2022,Greenwich,425320,745000,Two Family,Duplex,4,2,1399,1.003979,North
+8/7/2022,2022,Greenwich,425320,745000,Two Family,Duplex,4,2,
+,1.003979,North
 8/7/2022,2022,Stamford,294260,490000,Single Family,Detached House,3,3,1079,1.003979,North
 8/7/2022,2022,Unknown,291620,520000,Single Family,Detached House,3,3,952,1.003979,South
 8/7/2022,2022,Greenwich,1635480,2725000,Single Family,Detached House,3,2,928,1.003979,East
